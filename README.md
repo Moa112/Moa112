@@ -9,7 +9,7 @@
 
 ### 🚀 O que eu faço?
 ✅ Desenvolvimento de projetos voltados para **automação de processos e controle de sistemas**  
-✅ Trabalho com **Arduino eatuadores e integração IoT** usando **Node-RED**  
+✅ Estudo  **Arduino, atuadores e integração IoT** usando **Node-RED**  
 ✅ Experiência em **eletrônica analógica e digital** (circuitos com transistores, amplificadores, fontes de alimentação)  
 ✅ Implementação de **algoritmos de controle**, incluindo **PID e integração com hardware**  
 
