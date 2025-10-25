@@ -9,14 +9,14 @@
 
 ### 🚀 O que eu faço?
 ✅ Desenvolvimento de projetos voltados para **automação de processos e controle de sistemas**  
-✅ Trabalho com **Arduino, ESP32, sensores, atuadores e integração IoT** usando **Node-RED**  
+✅ Trabalho com **Arduino eatuadores e integração IoT** usando **Node-RED**  
 ✅ Experiência em **eletrônica analógica e digital** (circuitos com transistores, amplificadores, fontes de alimentação)  
 ✅ Implementação de **algoritmos de controle**, incluindo **PID e integração com hardware**  
 
 ### 📚 Habilidades Técnicas  
 ✔ **Linguagens:** C, C++, Python  
-✔ **Hardware:** Arduino, ESP32, Raspberry Pi  
-✔ **Software & Ferramentas:** Node-RED, MATLAB, Proteus, Tinkercad  
+✔ **Hardware:** Arduino
+✔ **Software & Ferramentas:** Node-RED, MATLAB, Tinkercad  
 ✔ **Áreas:** Controle e Automação, Eletrônica, IoT  
 
 ---
